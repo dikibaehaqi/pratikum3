@@ -11,7 +11,7 @@ menampilkan bilangan terbesar. mengunakan statment if
 program sederhana dengan perulangan. seorang pengusaha menginvestasikan uangnya untuk memulai  usahanya dengan
 modal awal 100 jt, pada bulan pertama dan kedua belum mendapatkan laba. pada bulan ketiga baru mulai mendapatkan 
 laba sebesar 1% dan pada bulan ke 5,pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%. 
-![ing](ss6.png)
+![ing](ss/ss6.png)
 
 ### membuat program sederhana dengan input 2 buah bilangan
 ini contoh program sederhana dengan input 2 buah bilangan, untuk menentukan bilangan terbesar dari kedua bilangan
@@ -25,7 +25,7 @@ tersebut dimulai dari data terkecil
 
 ### program dengan perulangan bertingkat (nested)
 contoh program dengan perulangan bertingkat (nested) for yang menghasilkan output sebagai berikut beserta hasil runing
-![ing](ss/sss4.png)
+![ing](ss/ss4.png)
 
 ### program n bilangan acak yang lebih kecil dari 0.5
 menggunakan kombinasi while dan for 
